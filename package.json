@@ -1,0 +1,23 @@
+{
+  "name": "kipu-bank",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "format": "prettier --write \"**/*.{sol,ts,js,md}\"",
+    "lint:sol": "solhint 'contracts/**/*.sol'",
+    "deploy:sepolia": "hardhat run scripts/deploy.ts --network sepolia",
+    "verify:sepolia": "hardhat run scripts/verify.ts --network sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.10",
+    "prettier": "^3.3.3",
+    "prettier-plugin-solidity": "^1.3.1",
+    "solhint": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
