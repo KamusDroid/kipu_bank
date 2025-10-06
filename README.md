@@ -126,7 +126,7 @@ Retirado 0.005 ETH
 | **Contrato** | [`0xd67539A3e7bd49EaC9635fA252322154c408Aa72`](https://sepolia.etherscan.io/address/0xd67539A3e7bd49EaC9635fA252322154c408Aa72#code) |
 | **Compilador** | Solidity `0.8.26` |
 | **Framework** | Hardhat + TypeScript |
-| **Autor** | [@kamus](https://github.com/KamusDroid) |
+| **Autor** | [@KamusDroid](https://github.com/KamusDroid) |
 | **Mentoría** | ETH Kipu – Módulo 2 |
 
 ---
