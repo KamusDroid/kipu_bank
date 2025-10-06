@@ -141,5 +141,5 @@ y se distribuye bajo licencia **MIT**.
 
 ### 🌐 Contacto
 
-Desarrollado con 💜 por **Kamus**  
+Desarrollado con 💜 por **KamusDroid**  
 **ETH Kipu – 77 Innovation Labs**
